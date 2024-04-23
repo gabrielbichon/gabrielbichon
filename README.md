@@ -1,7 +1,7 @@
 # About me 👋
 
 
-- 🌱 I’m currently learning python, sql and data visdualization. 
+- 🌱 I’m currently learning python, sql and data visualization. 
 - 💬 Ask me about forestry and environmental issues 🌳 
 - 📫 How to reach me: gabrielbichon90@gmail.com
 <!--
